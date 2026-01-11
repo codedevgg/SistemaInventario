@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="SistemaInventario.AccesoDatos/SistemaInventario.AccesoDatos.csproj" Id="633e0ecd-58e5-49ff-8727-9cf266da7c62" />
+  <Project Path="SistemaInventario.Modelos/SistemaInventario.Modelos.csproj" Id="564c98ef-59f5-4788-9733-40aa76503351" />
+  <Project Path="SistemaInventario.Utilidades/SistemaInventario.Utilidades.csproj" Id="9b99c581-7161-4d33-bd42-c06cd9ead00f" />
   <Project Path="SistemaInventario/SistemaInventario.csproj" />
 </Solution>
